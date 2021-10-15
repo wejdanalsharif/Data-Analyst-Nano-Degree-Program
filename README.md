@@ -9,7 +9,7 @@
 
 
 ## Overview
-I have been awarded a scholarship from Misk Academy, to study this Nano-degree from Udacity.
+I have been awarded a scholarship from [Misk Academy](https://hub.misk.org.sa/#:~:text=Misk%20Skills%20Job%20Skills%20programs%20are%20designed%20to,on%20the%20career%20paths%20you%20want%20to%20pursue.), to study this Nano-degree from [Udacity](https://www.udacity.com/).
 
 
 During the past 4 months, this course helped me to advance my programming skills, I learned how to clean messy data, uncover patterns and insights, make predictions using machine learning, and clearly communicate findings. 
