@@ -20,7 +20,7 @@ During the past 4 months, this course helped me to advance my programming skills
 ### 1. Introduction to Data Analysis
 In this course, I learned about the data analysis process and practiced investigating different datasets using SQL and Python and its powerful packages for data analysis.
 
-- [**Project 1: Explore Weather Trends**](https://github.com/wejdanalsharif/Data-Analyst-Nano-Degree-Program/blob/main/Explore_Weather_Trends_Project.pdf) In this project, I used basic SQL queries to download data from a database. Analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
+- [**Project 1: Explore Weather Trends**](https://github.com/wejdanalsharif/Data-Analyst-Nano-Degree-Program/blob/main/Explore_Weather_Trends_Project.pdf) In this project, I used basic SQL queries to extract data from a database. Analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
 
 - [**Project 2: Investigate a Dataset**](https://github.com/wejdanalsharif/Data-Analyst-Nano-Degree-Program/tree/main/Investigate%20a%20Dataset) In this project I chose one of Udacity's curated datasets, performed an investigation, and share the findings.
 
