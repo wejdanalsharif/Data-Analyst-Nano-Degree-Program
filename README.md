@@ -1,7 +1,7 @@
 # Data-Analyst-Nano-Degree-Program
 
 
-![](DAND-certificate.pdf)
+![](main/DAND-certificate.pdf)
 
 
 
