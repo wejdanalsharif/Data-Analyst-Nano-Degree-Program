@@ -1,6 +1,10 @@
 # Data-Analyst-Nano-Degree-Program
 
 
+![](DAND-certificate.pdf)
+
+
+
 ### Overview
 I have been awarded a scholarship from Misk Academy, to study this Nano-degree from Udacity.
 
